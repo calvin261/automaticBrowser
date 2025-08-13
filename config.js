@@ -3,8 +3,8 @@
 
 module.exports = {
   // Credenciales de inicio de sesión
-  username: 'jrjacomes@uce.edu.ec', // Correo electrónico de inicio de sesión
-  password: '>4}4+e3cO4dk', // Contraseña de inicio de sesión
+  username: '', // Correo electrónico de inicio de sesión
+  password: '', // Contraseña de inicio de sesión
   
   // Configuración del navegador
   headless: false, // Cambiar a true para ejecutar sin interfaz gráfica
