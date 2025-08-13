@@ -1,0 +1,27 @@
+{
+  "name": "cambridge-one-bot",
+  "version": "1.0.0",
+  "description": "Bot automatizado para Cambridge One",
+  "main": "cambridge_bot.js",
+  "scripts": {
+    "start": "node cambridge_bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "automation",
+    "bot",
+    "cambridge",
+    "education"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@browserbasehq/stagehand": "^2.4.2",
+    "dotenv": "^17.2.1",
+    "playwright": "^1.54.2",
+    "puppeteer": "^21.11.0",
+    "zod": "^3.25.76"
+  },
+  "type": "commonjs"
+}
